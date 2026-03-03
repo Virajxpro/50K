@@ -1,6 +1,4 @@
 # 50K
-# 50K
-
 
 # AI model Architecture
 1. Model A :- Crop recommendation system which uses Random forest (XGBoost for improved accuracy) with the publicly available NPK agriculture dataset
