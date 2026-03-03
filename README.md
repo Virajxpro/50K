@@ -1,4 +1,5 @@
 # 50K
+# 50K
 
 
 # AI model Architecture
@@ -7,3 +8,4 @@
 3. Model C :- Smart irrigation alert system which use rule based system for genertaing alerts and recommendations
 4. Model D (Future) :- Take NPK dataset input as well as Irrigation history and Disease history to suggest fertilizer and Pesticide/Herbicide etc
 5. Market Price Prediction (Optional) :- Uses (Monte Carlo simulation)? to predict future market price of the crop 
+
